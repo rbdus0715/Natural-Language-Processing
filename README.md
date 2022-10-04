@@ -3,10 +3,11 @@
 - ref : deep-learning-from-scratch, deep-learning-with-pytorch
 
 - 목차
-  - 0. 딥러닝 기초
-  - 1. 분산 표현과 통계 기반 모델
-  - 2. Word2Vec
-  - 3. Word2Vec Improving
-  - 4. RNN
-  - 5. LSTM
+0. 딥러닝 기초
+1. 분산 표현과 통계 기반 모델
+2. Word2Vec
+3. Word2Vec Improving
+4. RNN
+5. LSTM
+6. seq2seq
   
